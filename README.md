@@ -6,7 +6,7 @@ A Saturn V craft file for Realism Overhaul/Real Solar System.
 
 ### Engines
 * S-IC (RP1/LOX): 5 x Rocketdyne F-1
-* S-II (LH2/LOX): 5 x Rocketdyne J-2
+* S-II (LH2/LOX): 5 x Rocketdyne J-2 [Remember to shut down center J-2 at approximately 20% fuel]
 * S-IVB (LH2/LOX): 1 x Rocketdyne J-2
 * LM DPS (N2H4+UDMH/N2O4 [Helium Pressurized]): 1 x Lunar Module Descent Engine
 * LM APS (N2H4+UDMH/N2O4 [Helium Pressurized]): 1 x Lunar Module Ascent Engine
@@ -32,7 +32,7 @@ In order to use this craft with PVG autopilot:
 * Since the RO suite doesn't come with an Auxiliary Propulsion System that was used on the real S-IVB, I used modular RCS instead, so it is not entirely realistic.
 
 ## Changelog
-* 2.0 - Update check
+* 2.0 - Update check + instruction update
 * 1.9 - Reverted changes due to PVG failure. (**JETTISON LM MANUALLY**)
 * 1.8 - Fixed LM jettison staging.
 * 1.7 - Update check
