@@ -32,6 +32,7 @@ In order to use this craft with PVG autopilot:
 * Since the RO suite doesn't come with an Auxiliary Propulsion System that was used on the real S-IVB, I used modular RCS instead, so it is not entirely realistic.
 
 ## Changelog
+* 2.1 - Removed unnecessary dependencies.
 * 2.0 - Update check + instruction update
 * 1.9 - Reverted changes due to PVG failure. (**JETTISON LM MANUALLY**)
 * 1.8 - Fixed LM jettison staging.
