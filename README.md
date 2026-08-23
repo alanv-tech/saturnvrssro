@@ -17,6 +17,7 @@ In order to use this craft file, simply install the dependencies (CKAN recommend
 
 ### Primer Vector Guidance (MechJeb 2)
 In order to use this craft with PVG autopilot:
+* Turn on RCS (The actual RCS thrusters are activated in later stages, so it is perfectly realistic here)
 * Select a target orbit of 185 x 185 kilometers
 * Set the last stage and early shutoff stage to 3
 * Set the booster pitch rate to 0.2 degrees per second
