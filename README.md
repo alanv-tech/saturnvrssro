@@ -19,9 +19,9 @@ In order to use this craft file, simply install the dependencies (CKAN recommend
 In order to use this craft with PVG autopilot:
 * Turn on RCS (The actual RCS thrusters are activated in later stages, so it is perfectly realistic here)
 * Select a target orbit of 185 x 185 kilometers
-* Set the last stage and early shutoff stage to 5
+* Set the last stage and early shutoff stage to 4
 * Set the booster pitch rate to 0.2 degrees per second
-* Set the last stage of autostage to stage 8 (**REMEMBER TO MANUALLY STAGE AFTER LIFTOFF**)
+* Set the last stage of autostage to stage 7 (**REMEMBER TO MANUALLY STAGE AFTER LIFTOFF**)
 
 ## Dependencies
 * Realism Overhaul/Real Solar System/Realistic Progression 1 Express Install
@@ -32,6 +32,8 @@ In order to use this craft with PVG autopilot:
 * Since the RO suite doesn't come with an Auxiliary Propulsion System that was used on the real S-IVB, I used modular RCS instead, so it is not entirely realistic.
 
 ## Changelog
+* 2.0 - Update check
+* 1.9 - Reverted changes due to PVG failure. (**JETTISON LM MANUALLY**)
 * 1.8 - Fixed LM jettison staging.
 * 1.7 - Update check
 * 1.6 - Fixed LM separation staging.
