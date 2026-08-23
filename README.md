@@ -5,7 +5,7 @@ A Saturn V craft file for Realism Overhaul/Real Solar System.
 * Fully simulated Saturn V: S-IC, S-II, S-IVB, LM, CSM
 
 ### Engines
-* S-IC (RP1/LOX): 5 x Rocketdyne F-1
+* S-IC (RP1/LOX): 5 x Rocketdyne F-1 [Remember to shut down center F-1 at approximately 10% fuel]
 * S-II (LH2/LOX): 5 x Rocketdyne J-2 [Remember to shut down center J-2 at approximately 20% fuel]
 * S-IVB (LH2/LOX): 1 x Rocketdyne J-2
 * LM DPS (N2H4+UDMH/N2O4 [Helium Pressurized]): 1 x Lunar Module Descent Engine
