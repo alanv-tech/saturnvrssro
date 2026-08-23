@@ -15,6 +15,13 @@ A Saturn V craft file for Realism Overhaul/Real Solar System.
 ## How to Use
 In order to use this craft file, simply install the dependencies (CKAN recommended) and load the craft file into your saves folder.
 
+### Primer Vector Guidance (MechJeb 2)
+In order to use this craft with PVG autopilot:
+* Select a target orbit of 185 x 185 kilometers
+* Set the last stage and early shutoff stage to 3
+* Set the booster pitch rate to 0.2 degrees per second
+* Set the last stage of autostage to stage 6 (**REMEMBER TO MANUALLY STAGE AFTER LIFTOFF**)
+
 ## Dependencies
 * Realism Overhaul/Real Solar System/Realistic Progression 1 Express Install
 * ASET (for working capsule IVA)
