@@ -32,6 +32,7 @@ In order to use this craft with PVG autopilot:
 * Since the RO suite doesn't come with an Auxiliary Propulsion System that was used on the real S-IVB, I used modular RCS instead, so it is not entirely realistic.
 
 ## Changelog
+* 1.5 - Added drogue parachutes.
 * 1.4 - Created this GitHub repository.
 * 1.3 - Removed gimbal from the center J-2 engine of the S-II.
 * 1.2 - Removed gimbal from the center F-1 engine of the S-IC.
