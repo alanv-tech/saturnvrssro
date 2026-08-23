@@ -9,3 +9,6 @@ In order to use this craft file, simply install the dependencies (CKAN recommend
 * Realism Overhaul/Real Solar System/Realistic Progression 1 Express Install
 * ASET (for working capsule IVA)
 * Internal RCS
+
+## Problems
+* Since the RO suite doesn't come with an Auxiliary Propulsion System that was used on the real S-IVB, I used modular RCS instead, so it is not entirely realistic.
