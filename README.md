@@ -13,7 +13,7 @@ A Saturn V craft file for Realism Overhaul/Real Solar System.
 * SPS (N2H4+UDMH/N2O4 [Helium Pressurized]): 1 x Aerojet-General AJ10-137
 
 ## How to Use
-In order to use this craft file, simply install the dependencies (CKAN recommended) and load the craft file into your saves folder.
+In order to use this craft file, simply install the dependencies (CKAN recommended) and load the craft file into your saves folder. (Remember to rename the craft file)
 
 ### Primer Vector Guidance (MechJeb 2)
 In order to use this craft with PVG autopilot:
@@ -30,6 +30,7 @@ In order to use this craft with PVG autopilot:
 
 ## Problems
 * Since the RO suite doesn't come with an Auxiliary Propulsion System that was used on the real S-IVB, I used modular RCS instead, so it is not entirely realistic.
+* For some reason, GitHub changes "Saturn V.craft" to "Saturn.V.craft". **Please rename it to "Saturn V.craft" when you download it.**
 
 ## Changelog
 * 2.2 - Fixed name bug.
